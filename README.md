@@ -19,8 +19,8 @@ Para usar esta extensão, siga os passos abaixo:
 
 PARA USO 
 
-title: "Meu Documento ABNT"
-author: "Seu Nome"
-format:
-  pdf:
-    extensions: [extensionABNT]
+-title: "Meu Documento ABNT"
+-author: "Seu Nome"
+-format:
+  -pdf:
+    -extensions: [extensionABNT]
