@@ -1,0 +1,23 @@
+---
+title: "Exemplo de Documento ABNT"
+author: "João"
+format:
+  pdf:
+    extensions: [quarto-ext-abnt]
+---
+
+# Introdução
+
+Este é um exemplo de documento formatado de acordo com as normas ABNT.
+
+## Metodologia
+
+utilizar o quarto por meio de rstudio
+
+## Resultados
+
+Utilizar os recursos ABNT facilitando o processo de padronização de docuemntos
+
+## Conclusão
+
+documento gerado

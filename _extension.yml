@@ -1,0 +1,14 @@
+name: quarto-ext-abnt
+title: Extensão ABNT para Quarto
+version: "1.0"
+description: Extensão para gerar documentos PDF formatados de acordo com as normas ABNT.
+author: João
+quarto-version: "1.3"
+output:
+  pdf:
+    latex_engine: xelatex
+    template: templates/abnt-templates.tex
+    csl: abnt.csl
+dependencies:
+  - quarto
+  - pandoc
