@@ -16,11 +16,3 @@ Para usar esta extensão, siga os passos abaixo:
    ```bash
    git clone https://github.com/juauzz/extensionABNT.git
 
-
-PARA USO 
-
--title: "Meu Documento ABNT"
--author: "Seu Nome"
--format:
-  -pdf:
-    -extensions: [extensionABNT]
